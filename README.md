@@ -76,3 +76,5 @@ You may download binaires of OpenCOLLADA tools [here](https://github.com/Khronos
 Version/Revision
 ----------------
 Plugin version number and Plugin Revision information have been added in <authoring_tool> element
+
+Created by Jason Scott Heise
